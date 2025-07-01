@@ -3,14 +3,18 @@
   "name": "Hack Club Shop Modifier",
   "version": "1.0",
   "description": "Modifies the pricing display on summer.hackclub.com shop",
-  "permissions": [
-    "activeTab"
-  ],
+  "permissions": ["activeTab"],
   "content_scripts": [
     {
       "matches": ["https://summer.hackclub.com/*"],
       "js": ["content.js"],
       "run_at": "document_end"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["data.json"],
+      "matches": ["https://summer.hackclub.com/*"]
     }
   ]
 }

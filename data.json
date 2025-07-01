@@ -1,0 +1,206 @@
+{
+    "TIS-100": {
+        "link": "https://www.zachtronics.com/tis-100/",
+        "price": 6.99
+    },
+    "64GB USB Drive": {
+        "link": "https://www.amazon.com/Center-SuperSpeed-Memory-Storage-Faster/dp/B07K84CT17?th=1",
+        "price": 7.00
+    },
+    "Domain grant": {
+        "link": "https://porkbun.com/",
+        "price": 10.00
+    },
+    "Logic analyzer": {
+        "link": "https://www.amazon.com/Analyzer-Digital-Channel-Variety-Functions/dp/B08C5HKLLT",
+        "price": 11.75
+    },
+    "Pico-8 License": {
+        "link": "https://www.lexaloffle.com/pico-8.php",
+        "price": 14.99
+    },
+    "128GB USB Drive": {
+        "link": "https://www.amazon.com/Center-SuperSpeed-Memory-Storage-Faster/dp/B07K84M4G9?th=1",
+        "price": 14.99  
+    },
+    "Hot Glue Gun": {
+        "link": "https://www.amazon.com/Assark-Sticks-School-Repairs-20W/dp/B09FYWQ44L?th=1",
+        "price": 8.99
+    },
+    "Orpheus Pico! (preorder)": {
+        "link": "https://www.amazon.com/Assark-Sticks-School-Repairs-20W/dp/B09FYWQ44L?th=1",
+        "price": 2.49
+    },
+    "Cat Printer": {
+        "link": "https://www.amazon.com/Printer-Portable-Compatible-Bluetooth-Wireless/dp/B09KZR533K/ref=sr_1_4?dib=eyJ2IjoiMSJ9.FEh-eqBB6fCeEg0-k7pe_w1F4uM92HXtBVyapUtc7TLfam-YBxzI6Fq-MP32sZKzMm9375E5IzyV5Y_ILtUdPKyxJGvD-vuwjsozM8uPz3fKuEPyuh72uYxSWkWOCymjZg5KsL-iL2ycm1eWWi-lnDMo8dgwf8ETYr4O_6QI6s4Yxvu8LFh8JZiyfWifue7m8BOoQA1Q7IoGn7pyCigQI4MBLvDzE34bkPqxrsxu5Cs.3Cmzprsm16leqAzSWV-hqu28eyG3NLPFZrR7DOq95zA&dib_tag=se&keywords=cat%2Bmini%2Bprinter&qid=1751402856&sr=8-4&th=1",
+        "price": 17.47
+    },
+    "Voxatron License": {
+        "link": "https://www.lexaloffle.com/voxatron.php",
+        "price": 19.99
+    },
+    "Allen Wrench": {
+        "link": "https://www.amazon.com/Facom-FCM82HJP9A-82H-JP9A-Hexagon-Metric/dp/B00B1C2BE4?th=1",
+        "price": 24.08
+    },
+    "CH341A Programmer": {
+        "link": "https://www.amazon.com/JZK-Routing-Programmer-circuit-programming/dp/B0BRSSLV66/ref=asc_df_B0BRSSLV66?mcid=5ee9940001c731b5b5a3743a1ddda7a0&hvocijid=9740395545748284381-B0BRSSLV66-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=9740395545748284381&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029996&hvtargid=pla-2281435177418&psc=1",
+        "price": 8.87
+    },
+    "Raspberry Pi Zero 2 W": {
+        "link": "https://www.microcenter.com/product/643085/raspberry-pi-zero-2-w",
+        "price": 14.99
+    },
+    "Digital Calipers": {
+        "link": "https://www.amazon.com/Digital-Caliper-Sangabery-inches-Vernier/dp/B07VSVMWTJ/ref=asc_df_B07VSVMWTJ?mcid=be03afe7eb0f35578e346174f2c8c524&hvocijid=18032743733910056649-B07VSVMWTJ-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=18032743733910056649&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029996&hvtargid=pla-2281435179098&th=1",
+        "price": 8.99
+    },
+    "256GB microSD card + adapter": {
+        "link": "https://www.amazon.com/SanDisk-256GB-microSDXC-Memory-Adapter/dp/B0B7NV73PJ/ref=sr_1_1?dib=eyJ2IjoiMSJ9.yrP4UaR9Qm2nBvVQHjgYJDnhIpUDmFph9ttIxtnxyZDNXcA_e8JNfbFO9MfoLsMWm3F8i-0AqsXv8jsfYm8KmUSj5eFF1sYANQUXQD4ZOGRtNxtTp03kuGtj4ueGodvWvlXVDH2Ntxe-iJRwgk0NKkibs4O3JrwiR9vvH8_1CPGQY4yCy-SVC8X-N9GM7A3T__CAEjbZUIKdvcdl33N07sy9YvJfUkSl7AIVMS1D720.OGFXNt3DQeWUDF1kUPT_WC3pT2Gywz5-zP8GGNR2zCQ&dib_tag=se&keywords=sandisk%2Bultra%2B256gb%2Bmicrosdxc%2Buhs-i%2Bmemory%2Bcard%2Bwith%2Badapter&qid=1751404738&sr=8-1&th=1",
+        "price": 19.99
+    },
+    "256GB USB Drive": {
+        "link": "https://www.amazon.com/Center-SuperSpeed-Memory-Storage-Faster/dp/B07K83PGXJ?th=1",
+        "price": 19.99
+    },
+    "Smolhaj": {
+        "link": "https://www.ikea.com/us/en/p/blahaj-soft-toy-shark-90373590/",
+        "price": 29.99
+    },
+    "shapez 2": {
+        "link": "https://shapez2.com/",
+        "price": 24.99
+    },
+    "Pinecil": {
+        "link": "https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/",
+        "price": 35.99
+    },
+    "USB C Cable + Wall Adapter": {
+        "link": "https://www.amazon.com/iPhone-Charger-Anker-AirPods-Included/dp/B0C8HHV9DK?th=1",
+        "price": 18.99
+    },
+    "Lexaloffle Games bundle": {
+        "link": "https://www.lexaloffle.com/picotron.php",
+        "price": 38.97
+    },
+    "Factorio": {
+        "link": "https://www.factorio.com/",
+        "price": 35.00
+    },
+    "Brother Label Maker": {
+        "link": "https://www.amazon.com/Brother-P-touch-PTM95-Styles-Patterns/dp/B01GQHHYFE/ref=asc_df_B01GQHHYFE?mcid=9b11a11e63db3a74b3cd7628846a8450&hvocijid=18391430654577971627-B01GQHHYFE-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=18391430654577971627&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029996&hvtargid=pla-2281435177818&th=1",
+        "price": 29.75
+    },
+    "Qiyi XMD XT3 speedcube": {
+        "link": "https://speedcubeshop.com/products/x-man-xt3-3x3-v1-pioneer-magnetic-maglev-core-magnets-uv-coated?variant=41443669934193",
+        "price": 28.95
+    },
+    "Dupont Crimping Tool Kit": {
+        "link": "https://www.amazon.com/dp/B0DRK17PTW/ref=sspa_dk_detail_right_aax_0?sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfcmlnaHRfc2hhcmVk&th=1",
+        "price": 28.99
+    },
+    "Proxmark 3 Easy": {
+        "link": "https://www.amazon.com/Proxmark3-Decryptor-Decoder-Integrated-Antenna/dp/B0CQLFCLB4/ref=asc_df_B0CQLFCLB4?mcid=927d7c4c600938a8af266acb208f9946&hvocijid=13587889156055636671-B0CQLFCLB4-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=13587889156055636671&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029996&hvtargid=pla-2281435179018&psc=1",
+        "price": 45.89
+    },
+    "Yubikey USB-A": {
+        "link": "https://www.amazon.com/Security-Key-NFC-Yubico-authentication/dp/B0BVNPWPCN/ref=asc_df_B0BVNPWPCN?mcid=92656b1166aa30b6bb7fea12eabe92ce&hvocijid=4710655171007319817-B0BVNPWPCN-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=4710655171007319817&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029996&hvtargid=pla-2281435179818&th=1",
+        "price": 25.00
+    },
+    "Yubikey USB-C": {
+        "link": "https://www.amazon.com/Security-Key-NFC-Yubico-authentication/dp/B0BVNRXFHT/ref=asc_df_B0BVNRXFHT?mcid=dfe1005d682730efa33db53e87c06aca&hvocijid=13637564726114008900-B0BVNRXFHT-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=13637564726114008900&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029996&hvtargid=pla-2281435179778&th=1",
+        "price": 29.00
+    },
+    "Waveshare 7.5inch E-Ink Display": {
+        "link": "https://www.amazon.com/Waveshare-7-5inch-Two-Color-Interface-Consumption/dp/B075R69T93/ref=asc_df_B075R69T93?mcid=552bf089172d3b0388ece8182efa7a1c&hvocijid=10507613651720525634-B075R69T93-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=10507613651720525634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029996&hvtargid=pla-2281435177818&psc=1",
+        "price": 47.99
+    },
+    "Baofeng UV-5R (2 pack)": {
+        "link": "https://www.amazon.com/Handheld-Rechargeable-Programming-Cable%EF%BC%8CAcoustic-Earpiece/dp/B0D9GRN1ZJ/ref=asc_df_B0D9GRN1ZJ?mcid=c4a6686d7ff93e58a92898ceaeaf09bc&hvocijid=3127502993986423228-B0D9GRN1ZJ-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=3127502993986423228&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029996&hvtargid=pla-2281435178298&psc=1",
+        "price": 42.99
+    },
+    "min(amame) Parts Kit": {
+        "link": "https://headamame.com/products/minamame-parts-kit?variant=39868388802663",
+        "price": 55.00
+    },
+    "Seagate 2TB external HDD": {
+        "link": "https://www.amazon.com/Seagate-Portable-External-Hard-Drive/dp/B07CRG94G3/ref=asc_df_B07CRG94G3?mcid=39f542f5aee73fdc92ec1b611a51905d&hvocijid=14031607669272873737-B07CRG94G3-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=14031607669272873737&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029996&hvtargid=pla-2281435181418&th=1",
+        "price": 79.99
+    },
+    "Raspberry Pi 5": {
+        "link": "https://www.adafruit.com/product/5812",
+        "price": 66.00
+    },
+    "Logitech MX Master 3S": {
+        "link": "https://www.logitech.com/en-us/shop/p/mx-master-3s",
+        "price": 99.99
+    },
+    "Glasgow Interface Explorer": {
+        "link": "https://www.crowdsupply.com/1bitsquared/glasgow",
+        "price": 179.99
+    },
+    "XPPen Deco Pro MW": {
+        "link": "https://www.amazon.com/Deco-Pro-Bluetooth-Customizable-ExpressKeys/dp/B07RSRMCBY/ref=asc_df_B098NBL22P?mcid=de5f95dd278f3b97ae8ef4c7ed177011&hvocijid=16730189048250437313-B098NBL22P-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=16730189048250437313&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029996&hvtargid=pla-2281435177578&th=1",
+        "price": 129.99
+    },
+    "head(amame) Parts Kit": {
+        "link": "https://headamame.com/products/headamame-parts-kit?variant=39861868068967",
+        "price": 110.00
+    },
+    "Logitech G Pro X Superlight": {
+        "link": "https://www.logitechg.com/en-us/products/gaming-mice/pro-x-superlight-wireless-mouse.html",
+        "price": 149.99
+    },
+    "Flipper Zero": {
+        "link": "https://shop.flipperzero.one/",
+        "price": 199.00
+    },
+    "Cricut Explore 3": {
+        "link": "https://www.amazon.com/Cricut-Explore-Digital-Content-Library/dp/B0BJHH35DH/ref=asc_df_B0BJHH35DH?mcid=1cbb3ba7434033d79e5ed99ffe1d9e57&hvocijid=13768238784767214579-B0BJHH35DH-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=13768238784767214579&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029996&hvtargid=pla-2281435178778&th=1",
+        "price": 299.00
+    },
+    "Bambu A1 mini Printer": {
+        "link": "https://us.store.bambulab.com/products/a1-mini?id=579551171554607120&skr=yes&gad_source=1&gad_campaignid=21217723580&gbraid=0AAAAAo9so7NDVSbxJbaNB0_RZXrXlImAC&gclid=Cj0KCQjwjo7DBhCrARIsACWauSkOmqjk_w2qaFz4JMPhmVDy5Ng7uZO0d-_irqSjA_U1aFYvI2wmwdUaAoncEALw_wcB",
+        "price": 299.00
+    },
+    "Playdate": {
+        "link": "https://play.date/shop/playdate/",
+        "price": 229.00
+    },
+    "100MHZ Oscilloscope": {
+        "link": "https://www.tequipment.net/Siglent/SDS1102CML+/Digital-Oscilloscopes/?Source=googleshopping&gad_source=1&gad_campaignid=21089227821&gbraid=0AAAAA9blpJU5NmXSV6ZTIEKofHoPoY7LL&gclid=Cj0KCQjwjo7DBhCrARIsACWauSlNwA2-SJvnYJ0XvDaz_tsLklVvIGzmTET_iEePbKkr_011dyJr12AaAq0QEALw_wcB",
+        "price": 335.00
+    },
+    "$500 in Amp credit": {
+        "link": "https://www.anthropic.com/claude/sonnet",
+        "price": 500.00
+    },
+    "Nebula.tv Lifetime subscription": {
+        "link": "https://go.nebula.tv/lifetime?ref=nebulablog",
+        "price": 300.00
+    },
+    "iPad + Apple Pencil": {
+        "link": "https://www.apple.com/shop/buy-ipad/ipad/128gb-blue-wifi",
+        "price": 428.00
+    },
+    "M4 Mac Mini": {
+        "link": "https://www.apple.com/shop/buy-mac/mac-mini/apple-m4-chip-with-10-core-cpu-and-10-core-gpu-16gb-memory-256gb?afid=p240%7Cgo~cmp-10656750900~adg-127064508710~ad-614732650504_pla-2270494042073~dev-c~ext-~prd-MU9D3LL/A~mca-3622330~nt-search&cid=aos-us-kwgo-pla-mac--product-MU9D3LL/A",
+        "price": 599.00
+    },
+    "Framework Laptop 12": {
+        "link": "https://frame.work/products/laptop12-diy-intel-13gen/configuration/new",
+        "price": 772.00
+    },
+    "Prusa MK4S 3D Printer": {
+        "link": "https://www.prusa3d.com/product/original-prusa-mk4s-3d-printer-kit/?country=US&currency=usd&utm_source=google&utm_medium=cpc&utm_campaign=EN-US_Search_Shopping_Brand&utm_id=913289002&gad_source=1&gad_campaignid=913289002&gbraid=0AAAAADkiZoPbK4TPsr2EynKjKlAJhM1kn&gclid=Cj0KCQjwjo7DBhCrARIsACWauSmFN3Bj-7bwI-OscYpIOo7Qwcj1pqtxOQsEGfOnOSCkIWgvklfMSPUaAhulEALw_wcB",
+        "price": 729.00
+    },
+    "13-inch M4 MacBook Air": {
+        "link": "https://www.apple.com/shop/buy-mac/macbook-air/13-inch-midnight-m4-chip-with-10-core-cpu-8-core-gpu-16gb-memory-256gb?afid=p240%7Cgo~cmp-10656750900~adg-124617606433~ad-614732651212_pla-2268020285660~dev-c~ext-~prd-MW123LL/A~mca-3622330~nt-search&cid=aos-us-kwgo-pla-mac--product-MW123LL/A",
+        "price": 999.00
+    },
+    "MacBook Pro": {
+        "link": "https://www.apple.com/us-edu/shop/buy-mac/macbook-pro/14-inch-space-black-standard-display-apple-m4-chip-with-10-core-cpu-and-10-core-gpu-16gb-memory-512gb",
+        "price": 1699.00
+    }
+} 
