@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Hack Club Shop Modifier",
+  "version": "1.0",
+  "description": "Modifies the pricing display on summer.hackclub.com shop",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://summer.hackclub.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
