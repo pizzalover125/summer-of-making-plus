@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Hack Club Shop Modifier",
+  "name": "Stats for SoM",
   "version": "1.0",
   "description": "Modifies the pricing display on summer.hackclub.com shop",
   "permissions": ["activeTab"],
