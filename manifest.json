@@ -2,12 +2,17 @@
   "manifest_version": 3,
   "name": "Stats for SoM",
   "version": "1.0",
-  "description": "Modifies the pricing display on summer.hackclub.com shop",
+  "description": "The summer of making website, but better.",
   "permissions": ["activeTab"],
   "content_scripts": [
     {
-      "matches": ["https://summer.hackclub.com/*"],
-      "js": ["content.js"],
+      "matches": ["https://summer.hackclub.com/shop*"],
+      "js": ["shop.js"],
+      "run_at": "document_end"
+    },
+    {
+      "matches": ["https://summer.hackclub.com/my_projects*"],
+      "js": ["projects.js"],
       "run_at": "document_end"
     }
   ],
